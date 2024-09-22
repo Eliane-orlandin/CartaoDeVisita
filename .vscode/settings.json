@@ -1,0 +1,16 @@
+{
+  "java.compile.nullAnalysis.mode": "disabled",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true, // Formata o código ao salvar o arquivo
+  "editor.formatOnPaste": true, // Formata o código ao colar conteúdo
+  "editor.formatOnType": true, // Formata o código enquanto você digita
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
